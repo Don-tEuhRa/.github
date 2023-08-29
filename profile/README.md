@@ -38,8 +38,9 @@ xss필터를 적용시켜 악의적인 스크립트가 주입되면 필터링 �
 |:---------:|:---------:|:---------:|:---------:|
 |[박동민](https://github.com/chattymin)|[이영학](https://github.com/younghak9905)|[이한음](https://github.com/LeeHanEum)|[최수인](https://github.com/sooinice)|
 | `PM` `Android` `Design` | `Back-end` `Server` | `Back-end` | `Android` |  
-  
+
 # Preview
+[FIGMA 기획 보기](https://www.figma.com/file/vC07LwQd5Rzq1zTxtIXMLD/%EC%86%8C%EA%B0%9C%EB%94%A9-Android?type=design&mode=design&t=JoJzzgIfWzBXldB3-1)
 ## Login
 |<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/8f387471-5331-4d38-944d-2e70ce66d257" width = "100%">| 
 |:---------:|
