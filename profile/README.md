@@ -37,22 +37,22 @@ xss필터를 적용시켜 악의적인 스크립트가 주입되면 필터링 �
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/102720771?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/138277645?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|
 |[박동민](https://github.com/chattymin)|[이영학](https://github.com/younghak9905)|[이한음](https://github.com/LeeHanEum)|[최수인](https://github.com/sooinice)|
-| `PM` `Android` `Design` | `Back-end` `Server` | `Back-end` | `Android` |  
+| `PL` `Android` `Design` | `Back-end` `Server` | `Back-end` | `Android` |  
 
 # Preview
 [FIGMA 기획 보기](https://www.figma.com/file/vC07LwQd5Rzq1zTxtIXMLD/%EC%86%8C%EA%B0%9C%EB%94%A9-Android?type=design&mode=design&t=JoJzzgIfWzBXldB3-1)
 ## Login
-|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/8f387471-5331-4d38-944d-2e70ce66d257" width = "100%">| 
+|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/809e1d34-8b9f-4d83-b097-31851daecaee" width = "100%">| 
 |:---------:|
 |로그인 화면|
 ## Main
 |<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/1032d7e5-eb4d-4299-960b-6ba555d81dcb" width=100% />|<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/523a1eaa-8a27-4399-87fe-468d23cad2e5" width=100% />|<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/89628124-95ae-4071-b178-71290047fb22" width=100% />|<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/5912a53f-d16e-4bb0-a442-f1fdb8145548" width=100% />|
 |:---------:|:---------:|:---------:|:---------:|
 |매인 화면|배달 현황 목록|리뷰 목록|리뷰 작성|  
-## Donate
-|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/ce672b70-5840-461c-9a4c-1b787ef4a862" width = "100%">|
-|:---------:|
-|기부하기|
+## Donate & Store
+|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/9bc38f99-4f62-47ac-9e47-4c43fc7c60dd" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/801d6d05-11a1-49a7-a284-b6b63150b8a1" width = "100%">|
+|:---------:|:---------:|
+|기부하기|구매하기|
 ## Store
 |<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/52a3b277-e0f2-4063-a102-cd378aecf172" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/7af9b5e8-ac1d-47b0-a23d-cf8f93c507a5" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/a50fa79b-8f47-48d6-a66f-4388169199bb" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/23e84196-d30c-45cf-ba9f-02f4bec333dc" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/970b0d40-38e7-49f5-84e2-15cd9bc16e36" width = "100%">|<img src = "https://github.com/Don-tEuhRa/.github/assets/52882799/17cc51ae-7788-4829-8380-df294134ffc2" width = "100%">|
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
