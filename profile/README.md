@@ -2,7 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInhaHackathon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![소개딩](https://img.shields.io/badge/제%2010회%20소프트웨어%20개발보안%20시큐어코딩%20해커톤-최우수상-9cf)](https://github.com/Don-tEuhRa) 
 
-<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/22de49ed-e9df-4013-bc4a-d8a23b8b7e7d" width="100%"/>
+<img src="https://github.com/Don-tEuhRa/.github/assets/52882799/be279b73-af47-4e42-9725-5f1da5d23b2b" width="50%"/>
+
 
 [제10회 소프트웨어 개발보안 시큐어코딩 해커톤(제 5회 소개딩)](https://www.kisa.or.kr/401/form?postSeq=3152&lang_type=KO)
 - **구글 OAuth 로그인**  
